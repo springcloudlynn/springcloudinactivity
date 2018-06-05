@@ -6,7 +6,3 @@ spring:
     name: user
   profiles:
     active: dev
-#开启熔断器
-feign:
-  hystrix:
-    enabled: true
