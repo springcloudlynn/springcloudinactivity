@@ -3,7 +3,7 @@ spring:
     url: jdbc:mysql://localhost:3306/news_db?useUnicode=true&characterEncoding=UTF-8&useSSL=true
     username: root
     password: 1qaz2wsx
-logging:
-  level:
-    com:
-      lynn: DEBUG
+#logging:
+ # level:
+  #  com:
+   #   lynn: DEBUG
