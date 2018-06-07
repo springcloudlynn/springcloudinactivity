@@ -6,5 +6,4 @@ spring:
 logging:
   level:
     com:
-      lynn:
-        hall: DEBUG
+      lynn: DEBUG
