@@ -1,9 +1,9 @@
 spring:
   datasource:
     druid:
-      url: jdbc:mysql://localhost:3306/blog_db?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+      url: jdbc:mysql://localhost:3306/news?useUnicode=true&characterEncoding=UTF-8&useSSL=false
       username: root
-      password: 1qaz2wsx
+      password: root123
       stat-view-servlet:
         login-username: admin
         login-password: admin
